@@ -6,8 +6,8 @@ import { defineConfig, fontProviders } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://zishuaishu-ctrl.github.io/my-site/',
-	base: '/my-site/',
+	site: 'https://github.com/zishuaishu-ctrl/Intensive2.git',
+	base: '/Intensive2/',
 	integrations: [mdx(), sitemap()],
 	fonts: [
 		{
